@@ -39,7 +39,7 @@
 <h3 align="left" style="margin-left: 1rem;">
     <li style="list-style-type: square;">Back End</li>
 </h3>
-<p style="display: flex; gap: 1rem; margin-left: 2rem;">
+<p style="display: flex; gap: 1rem; margin-left: 2rem !important;">
     <a href="https://frappe.io/framework/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://discuss.frappe.io/uploads/default/original/3X/a/5/a5e946e67fbe05a61d1c33d08894876d4d9dea7a.png"
             width="36" alt="Frappe Forum" id="site-logo" class="logo-small">
