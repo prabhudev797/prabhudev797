@@ -22,7 +22,7 @@
     <li>👨🏻‍💻 I’m currently working at <strong>Novel Office</strong></li>
     <li>🌱 I’m currently learning <strong>React, Next</strong></li>
     <li>💬 Ask me about <strong>Java, JavaScript, SQL</strong></li>
-    <li>📫 Reach out to me <strong>prabhudesai007@gmail.com</strong></li>
+    <li>📫 Reach out to me <strong><a href="mailto:prabhudesai007@gmail.com">prabhudesai007@gmail.com</a></strong></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
