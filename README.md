@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Silicon Valley, India.</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=prabhu797&label=Profile%20views&color=0e75b6&style=flat"
+    <img src="https://komarev.com/ghpvc/?username=prabhu797&label=Profile%20views&color=blueviolet&style=plastic&abbreviated=true"
         alt="prabhu797" />
 </p>
 
