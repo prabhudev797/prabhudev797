@@ -26,6 +26,7 @@
     <li>📫 Reach out to me <strong><a href="mailto:prabhudesai007@gmail.com">prabhudesai007@gmail.com</a></strong></li>
 </ul>
 
+<div style="margin-left: 2rem;">
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="margin-left: 1rem;">
     <a href="https://linkedin.com/in/prabhudev797" target="blank">
@@ -37,10 +38,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<h3 align="left" style="margin-left: 1rem;">
+<h3 align="left">
     <li style="list-style-type: square;">Back End</li>
 </h3>
-<p style="display: flex; gap: 1rem; margin-left: 2rem !important;">
+<p style="display: flex; gap: 1rem;">
     <a href="https://frappe.io/framework/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://discuss.frappe.io/uploads/default/original/3X/a/5/a5e946e67fbe05a61d1c33d08894876d4d9dea7a.png"
             width="36" alt="Frappe Forum" id="site-logo" class="logo-small">
@@ -65,10 +66,10 @@
             alt="python" width="40" height="40" />
     </a>
 </p>
-<h3 align="left" style="margin-left: 1rem;">
+<h3 align="left">
     <li style="list-style-type: square;">Front End</li>
 </h3>
-<p style="display: flex; gap: 1rem; margin-left: 2rem;">
+<p style="display: flex; gap: 1rem;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
         style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -99,9 +100,9 @@
     </a>
 
 </p>
-<h3 align="left" style="margin-left: 1rem;">
+<h3 align="left">
     <li style="list-style-type: square;">Database</li>
-    <p style="display: flex; gap: 1rem; margin-left: 2rem;">
+    <p style="display: flex; gap: 1rem;">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
                 alt="mysql" width="40" height="40" />
@@ -116,9 +117,9 @@
         </a>
     </p>
 </h3>
-<h3 align="left" style="margin-left: 1rem;">
+<h3 align="left">
     <li style="list-style-type: square;">Tools</li>
-    <p style="display: flex; gap: 1rem; margin-left: 2rem;">
+    <p style="display: flex; gap: 1rem;">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
                 alt="linux" width="40" height="40" />
@@ -131,6 +132,7 @@
                 alt="nginx" width="40" height="40" /> </a>
     </p>
 </h3>
+</div>
 </p>
 <br>
 
