@@ -2,6 +2,10 @@
 </h1>
 <h3 align="center">A passionate Software Engineer from Silicon Valley, India.</h3>
 
+<p align="right">
+ <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%FFb800e6&size=35&center=true&vCenter=true&width=600%&lines=Software+Engineer;DevOps+Wizard;Problem+Solver;"/>
+<br>
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=prabhu797&label=Profile%20views&color=blueviolet&style=plastic&abbreviated=true"
         alt="prabhu797" />
