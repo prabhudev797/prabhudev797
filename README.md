@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prabhu<span style="color: #b30bb3;">dev</span> Des<span style="color: #b30bb3;">ai</span>
+<h1 align="center">Hi 👋, I'm $${Prabhu\color{purple}dev \space \color{white}Des\color{purple}ai}$$ 
 </h1>
 <h3 align="center">A passionate Software Engineer from Silicon Valley, India.</h3>
 
