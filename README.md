@@ -149,6 +149,6 @@
         src="https://github-readme-stats.vercel.app/api?username=prabhu797&show_icons=true&locale=en" alt="prabhu797" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhu797&" alt="prabhu797" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhu797" alt="prabhu797" /></p>
 
 <p style="font-size: smaller;"><b>Disclaimer:</b> The logos above are the property of their respective owners. These logos are used for illustrative purposes only, and their use does not imply any official affiliation or endorsement by the respective companies or organizations unless explicitly stated. All trademarks and copyrights are owned by their respective companies.</p>
