@@ -25,8 +25,8 @@
 
 <ul>
     <li>👨🏻‍💻 I’m currently working at <strong>Novel Office</strong></li>
-    <li>🌱 I’m currently learning <strong>React, Next</strong></li>
-    <li>💬 Ask me about <strong>Java, JavaScript, SQL</strong></li>
+    <li>🌱 I’m currently learning <strong>DevOps, System Design</strong></li>
+    <li>💬 Ask me about <strong>Java, JavaScript, SQL, React, Frappe, ERP</strong></li>
     <li>📫 Reach out to me <strong><a href="mailto:prabhudesai007@gmail.com">prabhudesai007@gmail.com</a></strong></li>
 </ul>
 
