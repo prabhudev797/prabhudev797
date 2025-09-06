@@ -6,14 +6,14 @@
 <br>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=prabhu797&label=Profile%20views&color=blueviolet&style=plastic&abbreviated=true"
-        alt="prabhu797" />
+    <img src="https://komarev.com/ghpvc/?username=prabhudev797&label=Profile%20views&color=blueviolet&style=plastic&abbreviated=true"
+        alt="prabhudev797" />
 </p>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=prabhu797&theme=darkhub&row=2&column=3"
-            alt="prabhu797" />
+        <img src="https://github-profile-trophy.vercel.app/?username=prabhudev797&theme=darkhub&row=2&column=3"
+            alt="prabhudev797" />
     </a>
 </p>
 
@@ -140,14 +140,14 @@
 <br>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhu797&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&layout=compact"
-        alt="prabhu797" height="195px" width="400px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhudev797&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&layout=compact"
+        alt="prabhudev797" height="195px" width="400px" />
 </p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=prabhu797&show_icons=true&locale=en" alt="prabhu797" />
+        src="https://github-readme-stats.vercel.app/api?username=prabhudev797&show_icons=true&locale=en" alt="prabhudev797" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhu797" alt="prabhu797" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhudev797" alt="prabhudev797" /></p>
 
 <p style="font-size: smaller;"><b>Disclaimer:</b> The logos above are the property of their respective owners. These logos are used for illustrative purposes only, and their use does not imply any official affiliation or endorsement by the respective companies or organizations unless explicitly stated. All trademarks and copyrights are owned by their respective companies.</p>
