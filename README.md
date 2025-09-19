@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Bengaluru, India.</h3>
 
 <p align="right">
- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%FFb800e6&size=35&center=true&vCenter=true&width=600%&lines=Senior+Software+Engineer;DevOps+Wizard;Problem+Solver;"/>
+ <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%FFb800e6&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;DevOps+Wizard;Problem+Solver;"/>
 <br>
 
 <p align="center">
