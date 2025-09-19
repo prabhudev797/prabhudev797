@@ -23,7 +23,7 @@
     src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif">
 
 <ul>
-    <li>👨🏻‍💻 I’m currently working at <strong>Novel Office</strong></li>
+    <li>👨🏻‍💻 I’m currently working at <strong>8848 Digital LLP</strong></li>
     <li>🌱 I’m currently learning <strong>DevOps, System Design</strong></li>
     <li>💬 Ask me about <strong>Java, JavaScript, SQL, React, Frappe, ERP</strong></li>
     <li>📫 Reach out to me <strong><a href="mailto:prabhudesai007@gmail.com">prabhudesai007@gmail.com</a></strong></li>
